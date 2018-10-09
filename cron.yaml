@@ -1,0 +1,4 @@
+cron:
+    - description: "Minute Job"
+      url: /minute
+      schedule: every 1 mins
